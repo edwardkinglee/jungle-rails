@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
+A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.  It includes Rspec and Cypress tests.
 
 ## Setup
 
@@ -11,7 +11,8 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 5. Create .env file based on .env.example
 6. Sign up for a Stripe account
 7. Put Stripe (test) keys into appropriate .env vars
-8. Run `bin/rails s -b 0.0.0.0` to start the server
+8. Run `bin/rails s -b 0.0.0.0` to start the development server
+9. or Run `bin/rails s -b 0.0.0.0 -e test` to start the test server
 
 ## Database
 
@@ -29,3 +30,13 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 - Bootstrap 5
 - PostgreSQL 9.x
 - Stripe
+
+## Screenshots
+
+!["Screenshot of Jungle main page"]()
+
+!["Screenshot of Jungle main products page"]()
+
+!["Screenshot of Jungle Login page "]()
+
+!["Screenshot of Jungle My Cart"]()
