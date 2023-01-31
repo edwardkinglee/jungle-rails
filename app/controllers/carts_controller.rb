@@ -1,5 +1,8 @@
 class CartsController < ApplicationController
 
+    #Ask for log in 
+    before_action :authorize
+
   def show
   end
 
