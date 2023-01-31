@@ -33,10 +33,10 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Screenshots
 
-!["Screenshot of Jungle main page"]()
+!["Screenshot of Jungle main page"](https://github.com/edwardkinglee/jungle-rails/blob/master/screenshots/jungle-homepage.png)
 
-!["Screenshot of Jungle main products page"]()
+!["Screenshot of Jungle main products page"](https://github.com/edwardkinglee/jungle-rails/blob/master/screenshots/main-products-page.png)
 
-!["Screenshot of Jungle Login page "]()
+!["Screenshot of Jungle Login page "](https://github.com/edwardkinglee/jungle-rails/blob/master/screenshots/user-login-page.png)
 
-!["Screenshot of Jungle My Cart"]()
+!["Screenshot of Jungle My Cart"](https://github.com/edwardkinglee/jungle-rails/blob/master/screenshots/user-login-page.png)
