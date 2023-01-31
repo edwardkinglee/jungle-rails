@@ -39,4 +39,4 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 !["Screenshot of Jungle Login page "](https://github.com/edwardkinglee/jungle-rails/blob/master/screenshots/user-login-page.png)
 
-!["Screenshot of Jungle My Cart"](https://github.com/edwardkinglee/jungle-rails/blob/master/screenshots/user-login-page.png)
+!["Screenshot of Jungle My Cart"](https://github.com/edwardkinglee/jungle-rails/blob/master/screenshots/my-cart.png)
